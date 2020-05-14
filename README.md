@@ -24,5 +24,8 @@ https://dribbble.com/shots/6045030-Surf-App-Instructors-List-Profile/attachments
 
 - :rocket:
 
-  
+
+### Quer me ver construindo mais designs?
+
+<img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/16-512.png" alt="Twitch" style="zoom:4%;" /> https://www.twitch.tv/analogicallergy 
 
